@@ -41,7 +41,7 @@ int readF(Student * studenti){
 		return 0;
 	}
 	for (int i = 0; i < brRed(); i++) {
-			fscanf(file, "%s %s %d", &studenti[i].ime, &studenti[i].prezime, &studenti[i].bod);
+		fscanf(file, "%s %s %d", &studenti[i].ime, &studenti[i].prezime, &studenti[i].bod);
 	}
 	fclose(file);
 	return 1;
@@ -60,7 +60,10 @@ int printS(Student* studenti) {
 int main(){
 
 	Student* studenti = malloc(brRed() * sizeof(Student));
-
+	if (studenti == NULL) {
+		printf("Neuspjesna rezervacija memorije");
+		return 0;
+	}
 	printS(studenti);
 
 	free(studenti);
