@@ -1,6 +1,8 @@
 ﻿  main.c
-C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\main.c(29,9): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
-C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\main.c(116,3): warning C4047: 'return': 'point' differs in levels of indirection from 'int'
-C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\main.c(123,11): warning C4047: '==': 'point' differs in levels of indirection from 'int'
-C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\main.c(118,1): warning C4715: 'findEl': not all control paths return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\main.c(39,9): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\main.c(271,3): warning C4047: 'return': 'point' differs in levels of indirection from 'int'
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\main.c(278,11): warning C4047: '==': 'point' differs in levels of indirection from 'int'
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\main.c(133,1): warning C4715: 'addAfter': not all control paths return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\main.c(163,1): warning C4715: 'addBefore': not all control paths return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\main.c(273,1): warning C4715: 'findEl': not all control paths return a value
   Project2.vcxproj -> C:\Users\miagr\Documents\FESB\projekti\strukture\zad2\Project2\x64\Debug\Project2.exe
