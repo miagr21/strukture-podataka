@@ -10,6 +10,25 @@ typedef struct stog {
 	point next;
 }stog;
 
+int push(int num, point head);
+
+int pop(point head);
+
+int chToNum(char symbol);
+
+int calPostfix(point head);
+
+int main() {
+
+	stog head = {NULL};
+
+	calPostfix(&head);
+
+	printf("%d", head.next->number);
+
+	return 0;
+}
+
 int push(int num, point head) {
 
 	if (head == NULL) {
@@ -43,7 +62,7 @@ int pop(point head) {
 	temp->next->next = NULL;
 	free(temp->next);
 	temp->next = NULL;
-	
+
 	return num;
 }
 
@@ -72,7 +91,7 @@ int calPostfix(point head) {
 		if (symbol[i] > 47 && symbol[i] < 58) {
 			push(chToNum(symbol[i]), head);
 		}
-		else{
+		else {
 			switch (symbol[i])
 			{
 			case ' ':
@@ -99,15 +118,4 @@ int calPostfix(point head) {
 		}
 	}
 	fclose(file);
-}
-
-int main() {
-
-	stog head = {NULL};
-
-	calPostfix(&head);
-
-	printf("%d", head.next->number);
-
-	return 0;
 }
