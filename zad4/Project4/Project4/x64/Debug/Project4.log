@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad4\Project4\main.c(71,21): warning C4033: 'insertSorted' must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad4\Project4\main.c(77,9): warning C4033: 'insertSorted' must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad4\Project4\main.c(99,9): warning C4033: 'insertSorted' must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad4\Project4\main.c(149,9): warning C4033: 'printPolynomial' must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad4\Project4\main.c(105,1): warning C4715: 'insertSorted': not all control paths return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad4\Project4\main.c(159,1): warning C4715: 'printPolynomial': not all control paths return a value
+  Project4.vcxproj -> C:\Users\miagr\Documents\FESB\projekti\strukture\zad4\Project4\x64\Debug\Project4.exe
