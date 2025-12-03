@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad6\Project6\main.c(189,4): warning C4033: 'sortInputReceipt' must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad6\Project6\main.c(202,1): warning C4716: 'sortInputReceipt': must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad6\Project6\main.c(213,1): warning C4716: 'sortInputArticle': must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad6\Project6\main.c(414,1): warning C4716: 'printError': must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad6\Project6\main.c(360,1): warning C4716: 'searchReceipt': must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad6\Project6\main.c(430,1): warning C4716: 'printAllRecipts': must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad6\Project6\main.c(439,1): warning C4716: 'deleteAllReceipt': must return a value
+C:\Users\miagr\Documents\FESB\projekti\strukture\zad6\Project6\main.c(449,1): warning C4716: 'deleteRecipt': must return a value
+  Project6.vcxproj -> C:\Users\miagr\Documents\FESB\projekti\strukture\zad6\Project6\x64\Debug\Project6.exe
