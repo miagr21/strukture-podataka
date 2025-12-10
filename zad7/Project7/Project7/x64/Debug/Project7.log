@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\miagr\source\repos\Project7\main.c(205,9): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\miagr\source\repos\Project7\main.c(210,1): warning C4715: 'push': not all control paths return a value
+  Project7.vcxproj -> C:\Users\miagr\source\repos\Project7\x64\Debug\Project7.exe
