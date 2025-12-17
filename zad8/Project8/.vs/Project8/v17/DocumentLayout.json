@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\zad8\\Project8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D7FF8C-7BCE-4508-860B-9F97AC7D8ABF}|Project8.vcxproj|C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\zad8\\Project8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D7FF8C-7BCE-4508-860B-9F97AC7D8ABF}|Project8.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 495,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\zad8\\Project8\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\zad8\\Project8\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-17T19:45:36.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
