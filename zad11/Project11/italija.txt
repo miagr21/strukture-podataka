@@ -1,0 +1,7 @@
+Rim 2873000
+Milano 1378689
+Napulj 962589
+Torino 870456
+Palermo 663173
+Genova 558745
+Bologna 390636

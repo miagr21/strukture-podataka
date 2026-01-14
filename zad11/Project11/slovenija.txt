@@ -1,0 +1,6 @@
+Ljubljana 295504
+Maribor 111832
+Celje 37520
+Kranj 37941
+Koper 25611
+NovoMesto 23700
