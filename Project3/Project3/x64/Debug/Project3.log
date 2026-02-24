@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\miagr\Documents\FESB\projekti\strukture\Project3\main.c(40,3): warning C4047: 'return': 'point' differs in levels of indirection from 'int'
+C:\Users\miagr\Documents\FESB\projekti\strukture\Project3\main.c(137,1): warning C4715: 'delete': not all control paths return a value
+  Project3.vcxproj -> C:\Users\miagr\Documents\FESB\projekti\strukture\Project3\x64\Debug\Project3.exe
