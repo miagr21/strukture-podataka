@@ -1,0 +1,6 @@
+1 Zagreb
+2 Split
+3 Rijeka
+4 Osijek
+5 Zadar
+6 Pula

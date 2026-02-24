@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\Project5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A78E4F-32A8-4F29-911D-E87EE5D8A512}|Project5.vcxproj|C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\Project5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90A78E4F-32A8-4F29-911D-E87EE5D8A512}|Project5.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\Project5\\padaline.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:padaline.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\Project5\\gradovi.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gradovi.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "padaline.txt",
+              "DocumentMoniker": "C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\Project5\\padaline.txt",
+              "RelativeDocumentMoniker": "padaline.txt",
+              "ToolTip": "C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\Project5\\padaline.txt",
+              "RelativeToolTip": "padaline.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-21T15:49:59.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gradovi.txt",
+              "DocumentMoniker": "C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\Project5\\gradovi.txt",
+              "RelativeDocumentMoniker": "gradovi.txt",
+              "ToolTip": "C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\Project5\\gradovi.txt",
+              "RelativeToolTip": "gradovi.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-21T15:49:59.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\Project5\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\miagr\\Documents\\FESB\\projekti\\strukture\\Project5\\main.c*",
+              "RelativeToolTip": "main.c*",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-21T15:01:50.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
